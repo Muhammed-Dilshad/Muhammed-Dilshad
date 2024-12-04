@@ -28,13 +28,10 @@ Here’s your updated README with colors, animations, and interactive sections t
 ## 📊 GitHub Stats  
 
 ### Contribution Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammedDilshad&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Dilshad&show_icons=true&theme=radical)  
 
 ### Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedDilshad&layout=compact&theme=radical)  
-
-### Work Hours in Repositories  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MuhammedDilshad&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Dilshad&layout=compact&theme=radical)
 
 ---
 
