@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Dilshad  
 
-🎓 **Electrical and Electronics Engineering Student | Embedded Systems Enthusiast | Problem Solver**  
+🎓 **Electrical and Electronics Engineering Student | Embedded Systems Enthusiast | Problem Solver | Web Development Learner**  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Electrical+and+Electronics+Engineering;Exploring+Embedded+Systems;Always+Learning+New+Things!)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🔍 **Exploring**: Microprocessors, microcontrollers, and embedded systems.  
-- 🖥️ **Programming Focus**: C, Python, Embedded C, Arduino, 8085, and 8051 microcontrollers.  
+- 🖥️ **Programming Focus**: C, Python, Embedded C, Arduino, 8085, 8051 microcontrollers and web technologies.  
 - 🧠 **Learning Philosophy**: Combining theoretical knowledge with hands-on practice to master my craft.  
 
 ---
@@ -17,8 +17,10 @@
 ### 🛠️ **Current Projects**  
 - **RFID-Based Attendance System**  
    - Designing an automated attendance system using **Arduino** and Python.  
-   - Implementing serial communication for efficient real-time data handling.  
-
+   - Implementing serial communication for efficient real-time data handling.
+     
+- **Exploring Web Development**  
+   - Learning modern web technologies to build dynamic and interactive user interfaces.  
 ---
 
 ## 📊 GitHub Stats  
