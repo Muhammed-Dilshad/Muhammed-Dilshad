@@ -1,7 +1,3 @@
-Here’s your updated README with colors, animations, and interactive sections to showcase your repositories, contributions, and work hours:  
-
----
-
 # 👋 Hi there! I'm [Your Name]  
 
 🎓 **Electrical and Electronics Engineering Student | Embedded Systems Enthusiast | Problem Solver**  
