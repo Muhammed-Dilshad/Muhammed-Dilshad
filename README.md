@@ -1,47 +1,67 @@
-# 👋 Hi there! I'm Dilshad  
+Here’s your updated README with colors, animations, and interactive sections to showcase your repositories, contributions, and work hours:  
 
-🎓 **Electronics Enthusiast | Embedded Systems Developer | Problem Solver**  
+---
 
-Welcome to my GitHub! I am passionate about creating innovative solutions in electronics, microcontrollers, and programming. My projects showcase my curiosity and dedication to mastering both hardware and software integration.  
+# 👋 Hi there! I'm [Your Name]  
+
+🎓 **Electrical and Electronics Engineering Student | Embedded Systems Enthusiast | Problem Solver**  
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Electrical+and+Electronics+Engineering;Exploring+Embedded+Systems;Always+Learning+New+Things!)
 
 ---
 
 ## 🚀 About Me  
 - 🔍 **Exploring**: Microprocessors, microcontrollers, and embedded systems.  
-- 🖥️ **Programming Focus**: C, Python, Embedded C, Arduino, and low-level microcontroller programming like 8085 and 8051.  
-- 🧠 **Learning Philosophy**: Tackling challenges head-on while continuously expanding my skill set.  
+- 🖥️ **Programming Focus**: C, Python, Embedded C, Arduino, 8085, and 8051 microcontrollers.  
+- 🧠 **Learning Philosophy**: Combining theoretical knowledge with hands-on practice to master my craft.  
 
 ---
 
 ## 📂 Projects & Interests  
 ### 🛠️ **Current Projects**  
 - **RFID-Based Attendance System**  
-   - Developing an efficient attendance system integrating **Arduino** with Python.  
-   - Handling serial data communication and creating robust attendance management solutions.  
+   - Designing an automated attendance system using **Arduino** and Python.  
+   - Implementing serial communication for efficient real-time data handling.  
 
-### 📚 **Recent Study**  
-- **Course**: *Electrical and Electronics Engineering*
+---
+
+## 📊 GitHub Stats  
+
+### Contribution Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Dilshad&show_icons=true&theme=radical)  
+
+### Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Dilshad&layout=compact&theme=radical)  
+
+### Work Hours in Repositories  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muhammed-Dilshad&theme=radical)  
+
 ---
 
 ## 🛠️ Tech Toolbox  
-- **Languages**: C | Python | Embedded C  
-- **Microcontrollers**: Arduino | 8085 | 8051  
-- **Other Tools**: VS Code | Git 
+![C](https://img.shields.io/badge/Code-C-blue)  
+![Python](https://img.shields.io/badge/Code-Python-yellow)  
+![Embedded C](https://img.shields.io/badge/Code-Embedded%20C-green)  
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-orange)  
+![8085](https://img.shields.io/badge/Microcontroller-8085-red)  
+![8051](https://img.shields.io/badge/Microcontroller-8051-lightgrey)  
 
 ---
 
 ## 🌟 What Inspires Me  
-- Harnessing the power of microcontrollers to solve real-world problems.  
-- Bridging hardware and software for impactful applications.  
-- Sharing and learning from the open-source community.  
+- Innovating solutions through the synergy of hardware and software.  
+- Exploring new technologies to address real-world challenges.  
+- Collaborating with peers and contributing to open-source projects.  
 
 ---
 
 ## 📈 Goals for 2024  
-- 🏆 Gain deeper expertise in embedded systems programming.  
-- 🔧 Build scalable and efficient hardware-software solutions.  
-- 🌍 Contribute to open-source projects and collaborate with like-minded innovators.  
+- 🏆 Advance my expertise in embedded systems and microcontroller programming.  
+- 🔧 Create scalable and efficient hardware-software systems.  
+- 🌍 Actively contribute to open-source projects and learn from the community.  
 
 ---
 
-🤝 Let's connect! Check out my repositories, and feel free to reach out for discussions or collaborations. 
+🤝 Let’s connect! Explore my repositories and feel free to reach out for discussions or collaborations.  
+
+---
