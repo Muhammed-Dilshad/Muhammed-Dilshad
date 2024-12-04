@@ -2,7 +2,7 @@
 
 🎓 **Electrical and Electronics Engineering Student | Embedded Systems Enthusiast | Problem Solver | Web Development Learner**  
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Electrical+and+Electronics+Engineering;Exploring+Embedded+Systems;Always+Learning+New+Things!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Electrical+and+Electronics+Engineer...;Always+Learning+New+Things!)
 
 ---
 
