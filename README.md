@@ -20,15 +20,13 @@ Welcome to my GitHub! I am passionate about creating innovative solutions in ele
    - Handling serial data communication and creating robust attendance management solutions.  
 
 ### 📚 **Recent Study**  
-- **Course**: *Microprocessors and Microcontrollers (EET303)*  
-   - Focusing on microcontroller architectures and their applications in real-world scenarios.  
-
+- **Course**: *Electrical and Electronics Engineering*
 ---
 
 ## 🛠️ Tech Toolbox  
 - **Languages**: C | Python | Embedded C  
 - **Microcontrollers**: Arduino | 8085 | 8051  
-- **Other Tools**: VS Code | Git  
+- **Other Tools**: VS Code | Git 
 
 ---
 
