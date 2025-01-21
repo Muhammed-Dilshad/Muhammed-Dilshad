@@ -8,9 +8,7 @@
 
 ## 🚀 About Me  
 - 🔍 **Exploring**: Microprocessors, microcontrollers, and embedded systems.  
-- 🖥️ **Programming Focus**: C, Python, Embedded C, Arduino, 8085, 8051 microcontrollers and web technologies.  
-- 🧠 **Learning Philosophy**: Combining theoretical knowledge with hands-on practice to master my craft.  
-
+- 🖥️ **Programming Focus**: C, Python, Embedded C, Arduino, 8085, 8051 microcontrollers and web technologies.    
 ---
 
 ## 📂 Projects & Interests  
