@@ -48,7 +48,7 @@
 
 ---
 
-## 📈 Goals for 2024  
+## 📈 Goals for 2024 
 - 🏆 Advance my expertise in embedded systems and microcontroller programming.  
 - 🔧 Create scalable and efficient hardware-software systems.  
 - 🌍 Actively contribute to open-source projects and learn from the community.  
