@@ -38,7 +38,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-yellow)  
 ![Embedded C](https://img.shields.io/badge/Code-Embedded%20C-green)  
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino-orange)  
-![8085](https://img.shields.io/badge/Microcontroller-8085-red)  
+![8085](https://img.shields.io/badge/Microcprocessor-8085-red)  
 ![8051](https://img.shields.io/badge/Microcontroller-8051-lightgrey)  
 
 ---
