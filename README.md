@@ -76,7 +76,7 @@
 
 ---
 
-## 📈 Goals for 2024  
+## 📈 Goals for 2025  
 - 🏆 Gain hands-on experience in **testing, troubleshooting, and IoT development**.  
 - 🔧 Develop scalable and **efficient hardware-software systems**.  
 - 🌍 Contribute to **open-source projects** and grow my professional network.  
